@@ -1,0 +1,13 @@
+Round robin seemed pretty easy when first thought. But simply it isn't.
+You can look into my C++ code [here](https://gist.github.com/mehedi-shafi/2325e896ac6e5f03393dadba3b08c51d)
+
+it became so complex when tried to keep track of things. xD
+
+Or maybe I am just a bad coder. 
+
+however, objectifying the processes seemed better idea to me. 
+
+###Tip
+  ** Print the queues during the run to understand how the queues are getting generated and working 
+
+good luck
