@@ -59,7 +59,7 @@ void sjf ()
         }
         tempcurr += burstTime[i];
         if (tempcurr < arrival[i+1]){
-            tempcurr += arrival[i+1];
+            tempcurr = arrival[i+1];
         }
     }
     //Gannt Chart
